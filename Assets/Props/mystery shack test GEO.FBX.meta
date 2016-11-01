@@ -1,0 +1,515 @@
+fileFormatVersion: 2
+guid: 1c904780257c9a54bbf350762ec2f2d1
+timeCreated: 1476148595
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: '?'
+    100002: back door step 002
+    100004: back door step001
+    100006: back door steps support001
+    100008: back door steps support002
+    100010: back plane
+    100012: back roof
+    100014: back roof corner
+    100016: back wall
+    100018: basement doors
+    100020: bigger ground log001
+    100022: bigger ground log002
+    100024: bill window
+    100026: chimney
+    100028: couch
+    100030: front arrow sign
+    100032: front door log001
+    100034: front door log002
+    100036: front door top log
+    100038: front L window
+    100040: front plane
+    100042: front R window
+    100044: front sign
+    100046: front step001
+    100048: front step002
+    100050: front steps support001
+    100052: front steps support002
+    100054: front wall
+    100056: gift metal plate
+    100058: gift shop
+    100060: gift shop random sign
+    100062: gift shop roof
+    100064: gift shop roof trim
+    100066: gift shop sign
+    100068: gift shop steps
+    100070: gift shop support roof
+    100072: gift side wall
+    100074: giftshop arrow
+    100076: ground plane
+    100078: grunkle stan export
+    100080: log stilt 003
+    100082: log stilt 004
+    100084: log stilt001
+    100086: log stilt002
+    100088: main border trim
+    100090: main deck
+    100092: museum arrow
+    100094: mystery backboard
+    100096: mystery light 002
+    100098: mystery light001
+    100100: //RootNode
+    100102: mystery stilt001
+    100104: mystery stilt002
+    100106: post001
+    100108: post002
+    100110: post003
+    100112: post004
+    100114: post005
+    100116: post006
+    100118: roof
+    100120: roof hangout
+    100122: S
+    100124: Shack
+    100126: shack backboard
+    100128: shack stilt001
+    100130: shack stilt002
+    100132: side door floof
+    100134: side door roof
+    100136: side door roof trim
+    100138: side door steps
+    100140: side wall
+    100142: sideways stilt
+    100144: smaller ground log 002
+    100146: smaller ground log001
+    100148: stick out beam001
+    100150: stick out beam002
+    100152: stick out beam003
+    100154: stick out beam004
+    100156: stilt001
+    100158: stilt002
+    100160: stilt003
+    100162: stilt004
+    100164: stilt005
+    100166: stilt006
+    100168: stilt007
+    100170: What
+    100172: wood supportA
+    100174: wood supportB
+    100176: wood supportC
+    400000: '?'
+    400002: back door step 002
+    400004: back door step001
+    400006: back door steps support001
+    400008: back door steps support002
+    400010: back plane
+    400012: back roof
+    400014: back roof corner
+    400016: back wall
+    400018: basement doors
+    400020: bigger ground log001
+    400022: bigger ground log002
+    400024: bill window
+    400026: chimney
+    400028: couch
+    400030: front arrow sign
+    400032: front door log001
+    400034: front door log002
+    400036: front door top log
+    400038: front L window
+    400040: front plane
+    400042: front R window
+    400044: front sign
+    400046: front step001
+    400048: front step002
+    400050: front steps support001
+    400052: front steps support002
+    400054: front wall
+    400056: gift metal plate
+    400058: gift shop
+    400060: gift shop random sign
+    400062: gift shop roof
+    400064: gift shop roof trim
+    400066: gift shop sign
+    400068: gift shop steps
+    400070: gift shop support roof
+    400072: gift side wall
+    400074: giftshop arrow
+    400076: ground plane
+    400078: grunkle stan export
+    400080: log stilt 003
+    400082: log stilt 004
+    400084: log stilt001
+    400086: log stilt002
+    400088: main border trim
+    400090: main deck
+    400092: museum arrow
+    400094: mystery backboard
+    400096: mystery light 002
+    400098: mystery light001
+    400100: //RootNode
+    400102: mystery stilt001
+    400104: mystery stilt002
+    400106: post001
+    400108: post002
+    400110: post003
+    400112: post004
+    400114: post005
+    400116: post006
+    400118: roof
+    400120: roof hangout
+    400122: S
+    400124: Shack
+    400126: shack backboard
+    400128: shack stilt001
+    400130: shack stilt002
+    400132: side door floof
+    400134: side door roof
+    400136: side door roof trim
+    400138: side door steps
+    400140: side wall
+    400142: sideways stilt
+    400144: smaller ground log 002
+    400146: smaller ground log001
+    400148: stick out beam001
+    400150: stick out beam002
+    400152: stick out beam003
+    400154: stick out beam004
+    400156: stilt001
+    400158: stilt002
+    400160: stilt003
+    400162: stilt004
+    400164: stilt005
+    400166: stilt006
+    400168: stilt007
+    400170: What
+    400172: wood supportA
+    400174: wood supportB
+    400176: wood supportC
+    2300000: '?'
+    2300002: back door step 002
+    2300004: back door step001
+    2300006: back door steps support001
+    2300008: back door steps support002
+    2300010: back plane
+    2300012: back roof
+    2300014: back roof corner
+    2300016: back wall
+    2300018: basement doors
+    2300020: bigger ground log001
+    2300022: bigger ground log002
+    2300024: bill window
+    2300026: chimney
+    2300028: couch
+    2300030: front arrow sign
+    2300032: front door log001
+    2300034: front door log002
+    2300036: front door top log
+    2300038: front L window
+    2300040: front plane
+    2300042: front R window
+    2300044: front sign
+    2300046: front step001
+    2300048: front step002
+    2300050: front steps support001
+    2300052: front steps support002
+    2300054: front wall
+    2300056: gift metal plate
+    2300058: gift shop
+    2300060: gift shop random sign
+    2300062: gift shop roof
+    2300064: gift shop roof trim
+    2300066: gift shop sign
+    2300068: gift shop steps
+    2300070: gift shop support roof
+    2300072: gift side wall
+    2300074: giftshop arrow
+    2300076: ground plane
+    2300078: grunkle stan export
+    2300080: log stilt 003
+    2300082: log stilt 004
+    2300084: log stilt001
+    2300086: log stilt002
+    2300088: main border trim
+    2300090: main deck
+    2300092: museum arrow
+    2300094: mystery backboard
+    2300096: mystery light 002
+    2300098: mystery light001
+    2300100: mystery stilt001
+    2300102: mystery stilt002
+    2300104: post001
+    2300106: post002
+    2300108: post003
+    2300110: post004
+    2300112: post005
+    2300114: post006
+    2300116: roof
+    2300118: roof hangout
+    2300120: S
+    2300122: Shack
+    2300124: shack backboard
+    2300126: shack stilt001
+    2300128: shack stilt002
+    2300130: side door floof
+    2300132: side door roof
+    2300134: side door roof trim
+    2300136: side door steps
+    2300138: side wall
+    2300140: sideways stilt
+    2300142: smaller ground log 002
+    2300144: smaller ground log001
+    2300146: stick out beam001
+    2300148: stick out beam002
+    2300150: stick out beam003
+    2300152: stick out beam004
+    2300154: stilt001
+    2300156: stilt002
+    2300158: stilt003
+    2300160: stilt004
+    2300162: stilt005
+    2300164: stilt006
+    2300166: stilt007
+    2300168: What
+    2300170: wood supportA
+    2300172: wood supportB
+    2300174: wood supportC
+    3300000: '?'
+    3300002: back door step 002
+    3300004: back door step001
+    3300006: back door steps support001
+    3300008: back door steps support002
+    3300010: back plane
+    3300012: back roof
+    3300014: back roof corner
+    3300016: back wall
+    3300018: basement doors
+    3300020: bigger ground log001
+    3300022: bigger ground log002
+    3300024: bill window
+    3300026: chimney
+    3300028: couch
+    3300030: front arrow sign
+    3300032: front door log001
+    3300034: front door log002
+    3300036: front door top log
+    3300038: front L window
+    3300040: front plane
+    3300042: front R window
+    3300044: front sign
+    3300046: front step001
+    3300048: front step002
+    3300050: front steps support001
+    3300052: front steps support002
+    3300054: front wall
+    3300056: gift metal plate
+    3300058: gift shop
+    3300060: gift shop random sign
+    3300062: gift shop roof
+    3300064: gift shop roof trim
+    3300066: gift shop sign
+    3300068: gift shop steps
+    3300070: gift shop support roof
+    3300072: gift side wall
+    3300074: giftshop arrow
+    3300076: ground plane
+    3300078: grunkle stan export
+    3300080: log stilt 003
+    3300082: log stilt 004
+    3300084: log stilt001
+    3300086: log stilt002
+    3300088: main border trim
+    3300090: main deck
+    3300092: museum arrow
+    3300094: mystery backboard
+    3300096: mystery light 002
+    3300098: mystery light001
+    3300100: mystery stilt001
+    3300102: mystery stilt002
+    3300104: post001
+    3300106: post002
+    3300108: post003
+    3300110: post004
+    3300112: post005
+    3300114: post006
+    3300116: roof
+    3300118: roof hangout
+    3300120: S
+    3300122: Shack
+    3300124: shack backboard
+    3300126: shack stilt001
+    3300128: shack stilt002
+    3300130: side door floof
+    3300132: side door roof
+    3300134: side door roof trim
+    3300136: side door steps
+    3300138: side wall
+    3300140: sideways stilt
+    3300142: smaller ground log 002
+    3300144: smaller ground log001
+    3300146: stick out beam001
+    3300148: stick out beam002
+    3300150: stick out beam003
+    3300152: stick out beam004
+    3300154: stilt001
+    3300156: stilt002
+    3300158: stilt003
+    3300160: stilt004
+    3300162: stilt005
+    3300164: stilt006
+    3300166: stilt007
+    3300168: What
+    3300170: wood supportA
+    3300172: wood supportB
+    3300174: wood supportC
+    4300000: grunkle stan export
+    4300002: roof
+    4300004: main deck
+    4300006: gift shop
+    4300008: side door roof
+    4300010: mystery backboard
+    4300012: shack backboard
+    4300014: gift metal plate
+    4300016: front door log001
+    4300018: front door log002
+    4300020: front door top log
+    4300022: back roof
+    4300024: back roof corner
+    4300026: basement doors
+    4300028: post001
+    4300030: post002
+    4300032: side door roof trim
+    4300034: side door floof
+    4300036: gift shop steps
+    4300038: post003
+    4300040: post004
+    4300042: side door steps
+    4300044: stilt001
+    4300046: stilt002
+    4300048: stilt003
+    4300050: stilt004
+    4300052: bigger ground log001
+    4300054: bigger ground log002
+    4300056: mystery stilt001
+    4300058: mystery stilt002
+    4300060: shack stilt001
+    4300062: shack stilt002
+    4300064: Shack
+    4300066: S
+    4300068: post005
+    4300070: post006
+    4300072: front steps support001
+    4300074: front step001
+    4300076: front step002
+    4300078: front steps support002
+    4300080: back door steps support001
+    4300082: back door step001
+    4300084: back door step 002
+    4300086: back door steps support002
+    4300088: wood supportA
+    4300090: wood supportB
+    4300092: wood supportC
+    4300094: stilt005
+    4300096: stilt006
+    4300098: stilt007
+    4300100: sideways stilt
+    4300102: roof hangout
+    4300104: chimney
+    4300106: '?'
+    4300108: What
+    4300110: gift shop sign
+    4300112: giftshop arrow
+    4300114: museum arrow
+    4300116: front arrow sign
+    4300118: front sign
+    4300120: main border trim
+    4300122: stick out beam001
+    4300124: gift shop random sign
+    4300126: smaller ground log001
+    4300128: ground plane
+    4300130: log stilt 004
+    4300132: log stilt 003
+    4300134: log stilt001
+    4300136: log stilt002
+    4300138: smaller ground log 002
+    4300140: couch
+    4300142: front wall
+    4300144: back wall
+    4300146: back plane
+    4300148: front plane
+    4300150: bill window
+    4300152: front R window
+    4300154: side wall
+    4300156: gift side wall
+    4300158: mystery light001
+    4300160: mystery light 002
+    4300162: front L window
+    4300164: stick out beam002
+    4300166: stick out beam003
+    4300168: stick out beam004
+    4300170: gift shop support roof
+    4300172: gift shop roof
+    4300174: gift shop roof trim
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
