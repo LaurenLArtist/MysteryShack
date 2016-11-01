@@ -8,7 +8,7 @@
 -r:"C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll"
 -define:UNITY_5_3_OR_NEWER
 -define:UNITY_5_4_OR_NEWER
--define:UNITY_5_4_1
+-define:UNITY_5_4_0
 -define:UNITY_5_4
 -define:UNITY_5
 -define:ENABLE_NEW_BUGREPORTER
@@ -82,7 +82,7 @@
 -define:UNITY_EDITOR_64
 -define:UNITY_EDITOR_WIN
 -define:UNITY_TEAM_LICENSE
--define:ENABLE_VSTU
+-define:UNITY_PRO_LICENSE
 "Assets/Standard Assets/Effects/ImageEffects/Scripts/Antialiasing.cs"
 "Assets/Standard Assets/Effects/ImageEffects/Scripts/Bloom.cs"
 "Assets/Standard Assets/Effects/ImageEffects/Scripts/BloomAndFlares.cs"
