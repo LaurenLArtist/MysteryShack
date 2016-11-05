@@ -1,0 +1,134 @@
+fileFormatVersion: 2
+guid: a1efe4f22fc957f47a0073bf144a8e24
+timeCreated: 1478315257
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: stepping stone A
+    100002: stepping stone b
+    100004: stepping stone C
+    100006: stepping stone E
+    100008: stepping stone F
+    100010: stepping stone G
+    100012: stepping stone H
+    100014: stepping stone I
+    100016: stepping stone J
+    100018: stepping stone K
+    100020: stepping stone L
+    100022: stepping stone M
+    100024: //RootNode
+    400000: stepping stone A
+    400002: stepping stone b
+    400004: stepping stone C
+    400006: stepping stone E
+    400008: stepping stone F
+    400010: stepping stone G
+    400012: stepping stone H
+    400014: stepping stone I
+    400016: stepping stone J
+    400018: stepping stone K
+    400020: stepping stone L
+    400022: stepping stone M
+    400024: //RootNode
+    2300000: stepping stone A
+    2300002: stepping stone b
+    2300004: stepping stone C
+    2300006: stepping stone E
+    2300008: stepping stone F
+    2300010: stepping stone G
+    2300012: stepping stone H
+    2300014: stepping stone I
+    2300016: stepping stone J
+    2300018: stepping stone K
+    2300020: stepping stone L
+    2300022: stepping stone M
+    3300000: stepping stone A
+    3300002: stepping stone b
+    3300004: stepping stone C
+    3300006: stepping stone E
+    3300008: stepping stone F
+    3300010: stepping stone G
+    3300012: stepping stone H
+    3300014: stepping stone I
+    3300016: stepping stone J
+    3300018: stepping stone K
+    3300020: stepping stone L
+    3300022: stepping stone M
+    4300000: stepping stone A
+    4300002: stepping stone b
+    4300004: stepping stone C
+    4300006: stepping stone E
+    4300008: stepping stone F
+    4300010: stepping stone G
+    4300012: stepping stone H
+    4300014: stepping stone I
+    4300016: stepping stone J
+    4300018: stepping stone K
+    4300020: stepping stone L
+    4300022: stepping stone M
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
