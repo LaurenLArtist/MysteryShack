@@ -146,3 +146,6 @@ ehthumbs.db
 [Tt]humbs.db
 [Dd]esktop.ini
 
+Library/assetDatabase3
+*.dwlt
+Library/CurrentLayout.dwlt
