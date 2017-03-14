@@ -1,0 +1,339 @@
+fileFormatVersion: 2
+guid: 5c1ba9e888926634fa942b10342f8aae
+timeCreated: 1489219852
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bed
+    100002: BunkerCrate001
+    100004: BunkerLocker
+    100006: BunkerStairsWalls
+    100008: BunkerWalls
+    100010: ForestGroundPlane
+    100012: //RootNode
+    100014: SecretEntranceWalls
+    100016: SecretGround
+    100018: SecretTree
+    100020: ShelfLarge
+    100022: ShelfSmall001
+    100024: ShelfSmall002
+    100026: SpiralStep001
+    100028: SpiralStep002
+    100030: SpiralStep003
+    100032: SpiralStep004
+    100034: SpiralStep005
+    100036: SpiralStep006
+    100038: SpiralStep007
+    100040: SpiralStep008
+    100042: SpiralStep009
+    100044: SpiralStep010
+    100046: SpiralStep011
+    100048: SpiralStep012
+    100050: SpiralStep013
+    100052: StraightStep002
+    100054: StraightStep003
+    100056: StraightStep004
+    100058: StraightStep005
+    100060: StraightStep006
+    100062: StraightStep007
+    100064: StraightStep008
+    100066: StraightStep009
+    100068: StraightStep010
+    100070: StraightStep011
+    100072: SectretTreeDoor
+    100074: StraightStep001
+    100076: Ground
+    100078: SecretWallsGround
+    100080: Straight step 001
+    100082: Straight step 002
+    100084: Straight step 003
+    100086: Straight step 004
+    100088: Straight step 005
+    100090: Straight step 006
+    100092: Straight step 007
+    100094: Straight step 008
+    100096: Straight step 009
+    100098: Straight step 010
+    100100: Straight step 011
+    100102: Straight step 012
+    100104: Straight step 013
+    100106: Straight step 014
+    400000: Bed
+    400002: BunkerCrate001
+    400004: BunkerLocker
+    400006: BunkerStairsWalls
+    400008: BunkerWalls
+    400010: ForestGroundPlane
+    400012: //RootNode
+    400014: SecretEntranceWalls
+    400016: SecretGround
+    400018: SecretTree
+    400020: ShelfLarge
+    400022: ShelfSmall001
+    400024: ShelfSmall002
+    400026: SpiralStep001
+    400028: SpiralStep002
+    400030: SpiralStep003
+    400032: SpiralStep004
+    400034: SpiralStep005
+    400036: SpiralStep006
+    400038: SpiralStep007
+    400040: SpiralStep008
+    400042: SpiralStep009
+    400044: SpiralStep010
+    400046: SpiralStep011
+    400048: SpiralStep012
+    400050: SpiralStep013
+    400052: StraightStep002
+    400054: StraightStep003
+    400056: StraightStep004
+    400058: StraightStep005
+    400060: StraightStep006
+    400062: StraightStep007
+    400064: StraightStep008
+    400066: StraightStep009
+    400068: StraightStep010
+    400070: StraightStep011
+    400072: SectretTreeDoor
+    400074: StraightStep001
+    400076: Ground
+    400078: SecretWallsGround
+    400080: Straight step 001
+    400082: Straight step 002
+    400084: Straight step 003
+    400086: Straight step 004
+    400088: Straight step 005
+    400090: Straight step 006
+    400092: Straight step 007
+    400094: Straight step 008
+    400096: Straight step 009
+    400098: Straight step 010
+    400100: Straight step 011
+    400102: Straight step 012
+    400104: Straight step 013
+    400106: Straight step 014
+    2300000: Bed
+    2300002: BunkerCrate001
+    2300004: BunkerLocker
+    2300006: BunkerStairsWalls
+    2300008: BunkerWalls
+    2300010: ForestGroundPlane
+    2300012: SecretEntranceWalls
+    2300014: SecretGround
+    2300016: SecretTree
+    2300018: ShelfLarge
+    2300020: ShelfSmall001
+    2300022: ShelfSmall002
+    2300024: SpiralStep001
+    2300026: SpiralStep002
+    2300028: SpiralStep003
+    2300030: SpiralStep004
+    2300032: SpiralStep005
+    2300034: SpiralStep006
+    2300036: SpiralStep007
+    2300038: SpiralStep008
+    2300040: SpiralStep009
+    2300042: SpiralStep010
+    2300044: SpiralStep011
+    2300046: SpiralStep012
+    2300048: SpiralStep013
+    2300050: StraightStep002
+    2300052: StraightStep003
+    2300054: StraightStep004
+    2300056: StraightStep005
+    2300058: StraightStep006
+    2300060: StraightStep007
+    2300062: StraightStep008
+    2300064: StraightStep009
+    2300066: StraightStep010
+    2300068: StraightStep011
+    2300070: SectretTreeDoor
+    2300072: StraightStep001
+    2300074: Ground
+    2300076: SecretWallsGround
+    2300078: Straight step 001
+    2300080: Straight step 002
+    2300082: Straight step 003
+    2300084: Straight step 004
+    2300086: Straight step 005
+    2300088: Straight step 006
+    2300090: Straight step 007
+    2300092: Straight step 008
+    2300094: Straight step 009
+    2300096: Straight step 010
+    2300098: Straight step 011
+    2300100: Straight step 012
+    2300102: Straight step 013
+    2300104: Straight step 014
+    3300000: Bed
+    3300002: BunkerCrate001
+    3300004: BunkerLocker
+    3300006: BunkerStairsWalls
+    3300008: BunkerWalls
+    3300010: ForestGroundPlane
+    3300012: SecretEntranceWalls
+    3300014: SecretGround
+    3300016: SecretTree
+    3300018: ShelfLarge
+    3300020: ShelfSmall001
+    3300022: ShelfSmall002
+    3300024: SpiralStep001
+    3300026: SpiralStep002
+    3300028: SpiralStep003
+    3300030: SpiralStep004
+    3300032: SpiralStep005
+    3300034: SpiralStep006
+    3300036: SpiralStep007
+    3300038: SpiralStep008
+    3300040: SpiralStep009
+    3300042: SpiralStep010
+    3300044: SpiralStep011
+    3300046: SpiralStep012
+    3300048: SpiralStep013
+    3300050: StraightStep002
+    3300052: StraightStep003
+    3300054: StraightStep004
+    3300056: StraightStep005
+    3300058: StraightStep006
+    3300060: StraightStep007
+    3300062: StraightStep008
+    3300064: StraightStep009
+    3300066: StraightStep010
+    3300068: StraightStep011
+    3300070: SectretTreeDoor
+    3300072: StraightStep001
+    3300074: Ground
+    3300076: SecretWallsGround
+    3300078: Straight step 001
+    3300080: Straight step 002
+    3300082: Straight step 003
+    3300084: Straight step 004
+    3300086: Straight step 005
+    3300088: Straight step 006
+    3300090: Straight step 007
+    3300092: Straight step 008
+    3300094: Straight step 009
+    3300096: Straight step 010
+    3300098: Straight step 011
+    3300100: Straight step 012
+    3300102: Straight step 013
+    3300104: Straight step 014
+    4300000: SecretEntranceWalls
+    4300002: ForestGroundPlane
+    4300004: SpiralStep001
+    4300006: SpiralStep002
+    4300008: SpiralStep003
+    4300010: SpiralStep004
+    4300012: SpiralStep005
+    4300014: SpiralStep006
+    4300016: SpiralStep007
+    4300018: SpiralStep008
+    4300020: SpiralStep009
+    4300022: SpiralStep010
+    4300024: SpiralStep011
+    4300026: SpiralStep012
+    4300028: SpiralStep013
+    4300030: SecretTree
+    4300032: BunkerWalls
+    4300034: StraightStep002
+    4300036: StraightStep003
+    4300038: StraightStep004
+    4300040: StraightStep005
+    4300042: StraightStep006
+    4300044: StraightStep007
+    4300046: StraightStep008
+    4300048: StraightStep009
+    4300050: StraightStep010
+    4300052: StraightStep011
+    4300054: BunkerStairsWalls
+    4300056: Bed
+    4300058: ShelfLarge
+    4300060: ShelfSmall001
+    4300062: ShelfSmall002
+    4300064: BunkerLocker
+    4300066: BunkerCrate001
+    4300068: SecretGround
+    4300070: SectretTreeDoor
+    4300072: StraightStep001
+    4300074: Ground
+    4300076: Straight step 001
+    4300078: Straight step 002
+    4300080: Straight step 003
+    4300082: Straight step 004
+    4300084: Straight step 005
+    4300086: Straight step 006
+    4300088: Straight step 007
+    4300090: Straight step 008
+    4300092: Straight step 009
+    4300094: Straight step 010
+    4300096: Straight step 011
+    4300098: Straight step 012
+    4300100: Straight step 013
+    4300102: Straight step 014
+    4300104: SecretWallsGround
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
