@@ -1,0 +1,101 @@
+fileFormatVersion: 2
+guid: f05ebc3e034eb024da2d3e75d9309857
+timeCreated: 1489899787
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Ankle_Lt
+    100002: //RootNode
+    100004: Leg_Shin_Low_Lt
+    100006: Leg_Shin_Mid_Lt
+    100008: Leg_Shin_Top_Lt
+    100010: Leg_Thigh_Bot_Lt
+    100012: Leg_Thigh_Low_Lt
+    100014: Leg_Thigh_Mid_Lt
+    100016: TESTFoot_CTRL
+    100018: TestLeg
+    100020: TESTLeg_Shin_Bot_Lt1
+    100022: TESTLeg_Thigh_Top_Lt1
+    100024: Toe_Lt
+    400000: Ankle_Lt
+    400002: //RootNode
+    400004: Leg_Shin_Low_Lt
+    400006: Leg_Shin_Mid_Lt
+    400008: Leg_Shin_Top_Lt
+    400010: Leg_Thigh_Bot_Lt
+    400012: Leg_Thigh_Low_Lt
+    400014: Leg_Thigh_Mid_Lt
+    400016: TESTFoot_CTRL
+    400018: TestLeg
+    400020: TESTLeg_Shin_Bot_Lt1
+    400022: TESTLeg_Thigh_Top_Lt1
+    400024: Toe_Lt
+    4300000: TestLeg
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: TestLeg
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: f5847be37b7f35a46bc25afe68d9c8f3
+timeCreated: 1490128772
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Ankle_Lt
+    100002: Ankle_Rt
+    100004: ArmElbow_Lt
+    100006: ArmElbow_Rt
+    100008: ArmUpper_Lt
+    100010: ArmUpper_Rt
+    100012: ArmWrist_Lt
+    100014: ArmWrist_Rt
+    100016: BlendShapes
+    100018: Body
+    100020: Clavicle_Lt
+    100022: Clavicle_Rt
+    100024: //RootNode
+    100026: Eye_Lt
+    100028: Eye_Lt 1
+    100030: Eye_Rt
+    100032: Eye_Rt 1
+    100034: Eyebrow_Lt
+    100036: Eyebrow_Rt
+    100038: EyelidBot_Lt
+    100040: EyelidBot_Rt
+    100042: EyelidTop_Lt
+    100044: EyelidTop_Rt
+    100046: FingerIndexBase_Lt
+    100048: FingerIndexBase_Rt
+    100050: FingerIndexEnd_Lt
+    100052: FingerIndexEnd_Rt
+    100054: FingerMiddleBase_Lt
+    100056: FingerMiddleBase_Rt
+    100058: FingerMiddleEnd_Lt
+    100060: FingerMiddleEnd_Rt
+    100062: FingerPinkyBase_Lt
+    100064: FingerPinkyBase_Rt
+    100066: FingerPinkyEnd_Lt
+    100068: FingerPinkyEnd_Rt
+    100070: FingerThumbEnd_Lt
+    100072: FingerThumbEnd_Rt
+    100074: FingerTumbBase_Lt
+    100076: FingerTumbBase_Rt
+    100078: FrownBrowsFurrow
+    100080: FrownConcentration
+    100082: GEO
+    100084: Hair
+    100086: Hat
+    100088: Head
+    100090: Head 1
+    100092: HipsSass
+    100094: Knee_Lt
+    100096: Knee_Rt
+    100098: Neck
+    100100: NeutralFrown
+    100102: NeutralSmile
+    100104: Root
+    100106: SmileSideClosedRight
+    100108: SpineLower
+    100110: SpineMid
+    100112: SpineUpper
+    100114: TeethTopA
+    100116: Thigh_Lt
+    100118: Thigh_Rt
+    100120: Toe_Lt
+    100122: Toe_Rt
+    100124: TongueA
+    100126: Vest
+    400000: Ankle_Lt
+    400002: Ankle_Rt
+    400004: ArmElbow_Lt
+    400006: ArmElbow_Rt
+    400008: ArmUpper_Lt
+    400010: ArmUpper_Rt
+    400012: ArmWrist_Lt
+    400014: ArmWrist_Rt
+    400016: BlendShapes
+    400018: Body
+    400020: Clavicle_Lt
+    400022: Clavicle_Rt
+    400024: //RootNode
+    400026: Eye_Lt
+    400028: Eye_Lt 1
+    400030: Eye_Rt
+    400032: Eye_Rt 1
+    400034: Eyebrow_Lt
+    400036: Eyebrow_Rt
+    400038: EyelidBot_Lt
+    400040: EyelidBot_Rt
+    400042: EyelidTop_Lt
+    400044: EyelidTop_Rt
+    400046: FingerIndexBase_Lt
+    400048: FingerIndexBase_Rt
+    400050: FingerIndexEnd_Lt
+    400052: FingerIndexEnd_Rt
+    400054: FingerMiddleBase_Lt
+    400056: FingerMiddleBase_Rt
+    400058: FingerMiddleEnd_Lt
+    400060: FingerMiddleEnd_Rt
+    400062: FingerPinkyBase_Lt
+    400064: FingerPinkyBase_Rt
+    400066: FingerPinkyEnd_Lt
+    400068: FingerPinkyEnd_Rt
+    400070: FingerThumbEnd_Lt
+    400072: FingerThumbEnd_Rt
+    400074: FingerTumbBase_Lt
+    400076: FingerTumbBase_Rt
+    400078: FrownBrowsFurrow
+    400080: FrownConcentration
+    400082: GEO
+    400084: Hair
+    400086: Hat
+    400088: Head
+    400090: Head 1
+    400092: HipsSass
+    400094: Knee_Lt
+    400096: Knee_Rt
+    400098: Neck
+    400100: NeutralFrown
+    400102: NeutralSmile
+    400104: Root
+    400106: SmileSideClosedRight
+    400108: SpineLower
+    400110: SpineMid
+    400112: SpineUpper
+    400114: TeethTopA
+    400116: Thigh_Lt
+    400118: Thigh_Rt
+    400120: Toe_Lt
+    400122: Toe_Rt
+    400124: TongueA
+    400126: Vest
+    2300000: Eye_Lt 1
+    2300002: Eye_Rt 1
+    2300004: EyelidBot_Lt
+    2300006: EyelidBot_Rt
+    2300008: EyelidTop_Lt
+    2300010: EyelidTop_Rt
+    2300012: Hat
+    2300014: TeethTopA
+    2300016: TongueA
+    3300000: Eye_Lt 1
+    3300002: Eye_Rt 1
+    3300004: EyelidBot_Lt
+    3300006: EyelidBot_Rt
+    3300008: EyelidTop_Lt
+    3300010: EyelidTop_Rt
+    3300012: Hat
+    3300014: TeethTopA
+    3300016: TongueA
+    4300000: Body
+    4300002: Vest
+    4300004: Head
+    4300006: Hat
+    4300008: Hair
+    4300010: Eyebrow_Rt
+    4300012: Eyebrow_Lt
+    4300014: TongueA
+    4300016: TeethTopA
+    4300018: EyelidTop_Rt
+    4300020: EyelidBot_Rt
+    4300022: EyelidBot_Lt
+    4300024: EyelidTop_Lt
+    4300026: Eye_Lt
+    4300028: Eye_Rt
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Body
+    13700002: Eyebrow_Lt
+    13700004: Eyebrow_Rt
+    13700006: Hair
+    13700008: Head 1
+    13700010: Vest
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: Root
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 8e9634800dbba2646bd65e6b82f4bdf9,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

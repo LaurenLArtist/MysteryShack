@@ -1,0 +1,302 @@
+fileFormatVersion: 2
+guid: 8e9634800dbba2646bd65e6b82f4bdf9
+timeCreated: 1490054957
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Ankle_Lt
+    100002: Ankle_Rt
+    100004: ArmElbow_Lt
+    100006: ArmElbow_Rt
+    100008: ArmUpper_Lt
+    100010: ArmUpper_Rt
+    100012: ArmWrist_Lt
+    100014: ArmWrist_Rt
+    100016: BlendShapes
+    100018: Body
+    100020: Clavicle_Lt
+    100022: Clavicle_Rt
+    100024: CTRLs
+    100026: //RootNode
+    100028: Eye_Lt
+    100030: Eye_Lt 1
+    100032: Eye_Rt
+    100034: Eye_Rt 1
+    100036: Eyebrow_Lt
+    100038: Eyebrow_Rt
+    100040: EyelidBot_Lt
+    100042: EyelidBot_Rt
+    100044: EyelidTop_Lt
+    100046: EyelidTop_Rt
+    100048: FingerIndexBase_Lt
+    100050: FingerIndexBase_Rt
+    100052: FingerIndexEnd_Lt
+    100054: FingerIndexEnd_Rt
+    100056: FingerMiddleBase_Lt
+    100058: FingerMiddleBase_Rt
+    100060: FingerMiddleEnd_Lt
+    100062: FingerMiddleEnd_Rt
+    100064: FingerPinkyBase_Lt
+    100066: FingerPinkyBase_Rt
+    100068: FingerPinkyEnd_Lt
+    100070: FingerPinkyEnd_Rt
+    100072: FingerThumbEnd_Lt
+    100074: FingerThumbEnd_Rt
+    100076: FingerTumbBase_Lt
+    100078: FingerTumbBase_Rt
+    100080: Foot_Lt_CTRL
+    100082: Foot_Rt_CTRL
+    100084: FrownBrowsFurrow
+    100086: FrownConcentration
+    100088: GEO
+    100090: Hair
+    100092: Hand_Lt_CTRL
+    100094: Hand_Rt_CTRL
+    100096: Hat
+    100098: Head
+    100100: Head 1
+    100102: Head_CTRL
+    100104: HipsSass
+    100106: HipsSass_CTRL
+    100108: HipsTranslation_CTRL
+    100110: Knee_Lt
+    100112: Knee_Rt
+    100114: Neck
+    100116: Neck_CTRL
+    100118: NeutralFrown
+    100120: NeutralSmile
+    100122: Root
+    100124: Root_CTRL
+    100126: SmileSideClosedRight
+    100128: SpineLower
+    100130: SpineMid
+    100132: SpineMid_CTRL
+    100134: SpineUpper
+    100136: SpineUpper_CTRL
+    100138: TeethTopA
+    100140: Thigh_Lt
+    100142: Thigh_Rt
+    100144: Toe_Lt
+    100146: Toe_Rt
+    100148: TongueA
+    100150: Vest
+    100152: Arm_Lt_IK
+    100154: Arm_Rt_IK
+    100156: Elbow_Lt_CTRL
+    100158: Elbow_Rt_CTRL
+    100160: Eye_Lt_CTRL
+    100162: Eye_Rt_CTRL
+    100164: Eyes_CTRL
+    100166: Knee_Lt_CTRL
+    100168: Knee_Rt_CTRL
+    100170: Leg_Lt_IK
+    100172: Leg_Rt_IK
+    400000: Ankle_Lt
+    400002: Ankle_Rt
+    400004: ArmElbow_Lt
+    400006: ArmElbow_Rt
+    400008: ArmUpper_Lt
+    400010: ArmUpper_Rt
+    400012: ArmWrist_Lt
+    400014: ArmWrist_Rt
+    400016: BlendShapes
+    400018: Body
+    400020: Clavicle_Lt
+    400022: Clavicle_Rt
+    400024: CTRLs
+    400026: //RootNode
+    400028: Eye_Lt
+    400030: Eye_Lt 1
+    400032: Eye_Rt
+    400034: Eye_Rt 1
+    400036: Eyebrow_Lt
+    400038: Eyebrow_Rt
+    400040: EyelidBot_Lt
+    400042: EyelidBot_Rt
+    400044: EyelidTop_Lt
+    400046: EyelidTop_Rt
+    400048: FingerIndexBase_Lt
+    400050: FingerIndexBase_Rt
+    400052: FingerIndexEnd_Lt
+    400054: FingerIndexEnd_Rt
+    400056: FingerMiddleBase_Lt
+    400058: FingerMiddleBase_Rt
+    400060: FingerMiddleEnd_Lt
+    400062: FingerMiddleEnd_Rt
+    400064: FingerPinkyBase_Lt
+    400066: FingerPinkyBase_Rt
+    400068: FingerPinkyEnd_Lt
+    400070: FingerPinkyEnd_Rt
+    400072: FingerThumbEnd_Lt
+    400074: FingerThumbEnd_Rt
+    400076: FingerTumbBase_Lt
+    400078: FingerTumbBase_Rt
+    400080: Foot_Lt_CTRL
+    400082: Foot_Rt_CTRL
+    400084: FrownBrowsFurrow
+    400086: FrownConcentration
+    400088: GEO
+    400090: Hair
+    400092: Hand_Lt_CTRL
+    400094: Hand_Rt_CTRL
+    400096: Hat
+    400098: Head
+    400100: Head 1
+    400102: Head_CTRL
+    400104: HipsSass
+    400106: HipsSass_CTRL
+    400108: HipsTranslation_CTRL
+    400110: Knee_Lt
+    400112: Knee_Rt
+    400114: Neck
+    400116: Neck_CTRL
+    400118: NeutralFrown
+    400120: NeutralSmile
+    400122: Root
+    400124: Root_CTRL
+    400126: SmileSideClosedRight
+    400128: SpineLower
+    400130: SpineMid
+    400132: SpineMid_CTRL
+    400134: SpineUpper
+    400136: SpineUpper_CTRL
+    400138: TeethTopA
+    400140: Thigh_Lt
+    400142: Thigh_Rt
+    400144: Toe_Lt
+    400146: Toe_Rt
+    400148: TongueA
+    400150: Vest
+    400152: Arm_Lt_IK
+    400154: Arm_Rt_IK
+    400156: Elbow_Lt_CTRL
+    400158: Elbow_Rt_CTRL
+    400160: Eye_Lt_CTRL
+    400162: Eye_Rt_CTRL
+    400164: Eyes_CTRL
+    400166: Knee_Lt_CTRL
+    400168: Knee_Rt_CTRL
+    400170: Leg_Lt_IK
+    400172: Leg_Rt_IK
+    2300000: Eye_Lt 1
+    2300002: Eye_Rt 1
+    2300004: Eyebrow_Rt
+    2300006: EyelidBot_Lt
+    2300008: EyelidBot_Rt
+    2300010: EyelidTop_Lt
+    2300012: EyelidTop_Rt
+    2300014: Hat
+    2300016: TeethTopA
+    2300018: TongueA
+    2300020: Body
+    2300022: Eyebrow_Lt
+    2300024: Hair
+    2300026: Head 1
+    2300028: Vest
+    3300000: Eye_Lt 1
+    3300002: Eye_Rt 1
+    3300004: Eyebrow_Rt
+    3300006: EyelidBot_Lt
+    3300008: EyelidBot_Rt
+    3300010: EyelidTop_Lt
+    3300012: EyelidTop_Rt
+    3300014: Hat
+    3300016: TeethTopA
+    3300018: TongueA
+    3300020: Body
+    3300022: Eyebrow_Lt
+    3300024: Hair
+    3300026: Head 1
+    3300028: Vest
+    4300000: Body
+    4300002: Vest
+    4300004: Head
+    4300006: Hat
+    4300008: Hair
+    4300010: Eyebrow_Rt
+    4300012: Eyebrow_Lt
+    4300014: TongueA
+    4300016: TeethTopA
+    4300018: EyelidTop_Rt
+    4300020: EyelidBot_Rt
+    4300022: EyelidBot_Lt
+    4300024: EyelidTop_Lt
+    4300026: Eye_Lt
+    4300028: Eye_Rt
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Body
+    13700002: Eyebrow_Lt
+    13700004: Hair
+    13700006: Head 1
+    13700008: Vest
+    13700010: Eyebrow_Rt
+    13700012: Hat
+    13700014: TeethTopA
+    13700016: TongueA
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: Root
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

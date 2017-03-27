@@ -149,6 +149,10 @@ ModelImporter:
     100282: wood supportB
     100284: wood supportC
     100286: world famous sign
+    100288: couch cushions
+    100290: mysteryshack txt front door
+    100292: path rail support
+    100294: path rails
     400000: '?'
     400002: back door
     400004: back door step 002
@@ -293,6 +297,10 @@ ModelImporter:
     400282: wood supportB
     400284: wood supportC
     400286: world famous sign
+    400288: couch cushions
+    400290: mysteryshack txt front door
+    400292: path rail support
+    400294: path rails
     2300000: '?'
     2300002: back door
     2300004: back door step 002
@@ -436,6 +444,10 @@ ModelImporter:
     2300280: wood supportB
     2300282: wood supportC
     2300284: world famous sign
+    2300286: couch cushions
+    2300288: mysteryshack txt front door
+    2300290: path rail support
+    2300292: path rails
     3300000: '?'
     3300002: back door
     3300004: back door step 002
@@ -579,6 +591,10 @@ ModelImporter:
     3300280: wood supportB
     3300282: wood supportC
     3300284: world famous sign
+    3300286: couch cushions
+    3300288: mysteryshack txt front door
+    3300290: path rail support
+    3300292: path rails
     4300000: roof
     4300002: main deck
     4300004: side door roof
@@ -722,6 +738,10 @@ ModelImporter:
     4300280: stick out beam014
     4300282: stick out beam015
     4300284: bigger ground log003
+    4300286: couch cushions
+    4300288: mysteryshack txt front door
+    4300290: path rails
+    4300292: path rail support
     9500000: //RootNode
   materials:
     importMaterials: 1
