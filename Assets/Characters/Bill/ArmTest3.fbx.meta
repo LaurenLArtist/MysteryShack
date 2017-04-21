@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: f8f35ec764751b44990ff038a8ab64a7
+timeCreated: 1492197365
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arm
+    100002: arm_rtt1
+    100004: arm_rtt2
+    100006: arm_rtt3
+    100008: arm_rtt4
+    100010: arm_rtt5
+    100012: arm_rtt6
+    100014: arm_rtt7
+    100016: //RootNode
+    100018: middlefinger_rtt1
+    100020: middlefinger_rtt2
+    100022: middlefinger_rtt3
+    100024: pinkyfinger_rtt1
+    100026: pinkyfinger_rtt2
+    100028: pinkyfinger_rtt3
+    100030: pointfinger_rtt1
+    100032: pointfinger_rtt2
+    100034: pointfinger_rtt3
+    100036: thumb_rtt1
+    100038: thumb_rtt2
+    100040: thumb_rtt3
+    100042: wrist_rtt
+    400000: Arm
+    400002: arm_rtt1
+    400004: arm_rtt2
+    400006: arm_rtt3
+    400008: arm_rtt4
+    400010: arm_rtt5
+    400012: arm_rtt6
+    400014: arm_rtt7
+    400016: //RootNode
+    400018: middlefinger_rtt1
+    400020: middlefinger_rtt2
+    400022: middlefinger_rtt3
+    400024: pinkyfinger_rtt1
+    400026: pinkyfinger_rtt2
+    400028: pinkyfinger_rtt3
+    400030: pointfinger_rtt1
+    400032: pointfinger_rtt2
+    400034: pointfinger_rtt3
+    400036: thumb_rtt1
+    400038: thumb_rtt2
+    400040: thumb_rtt3
+    400042: wrist_rtt
+    4300000: Arm
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Arm
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 43
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Arm
+        weight: 1
+      - path: arm_rtt1
+        weight: 1
+      - path: arm_rtt1/arm_rtt2
+        weight: 1
+      - path: arm_rtt1/arm_rtt2/arm_rtt3
+        weight: 1
+      - path: arm_rtt1/arm_rtt2/arm_rtt3/arm_rtt4
+        weight: 1
+      - path: arm_rtt1/arm_rtt2/arm_rtt3/arm_rtt4/arm_rtt5
+        weight: 1
+      - path: arm_rtt1/arm_rtt2/arm_rtt3/arm_rtt4/arm_rtt5/arm_rtt6
+        weight: 1
+      - path: arm_rtt1/arm_rtt2/arm_rtt3/arm_rtt4/arm_rtt5/arm_rtt6/arm_rtt7
+        weight: 1
+      - path: arm_rtt1/arm_rtt2/arm_rtt3/arm_rtt4/arm_rtt5/arm_rtt6/arm_rtt7/wrist_rtt
+        weight: 1
+      - path: arm_rtt1/arm_rtt2/arm_rtt3/arm_rtt4/arm_rtt5/arm_rtt6/arm_rtt7/wrist_rtt/middlefinger_rtt1
+        weight: 1
+      - path: arm_rtt1/arm_rtt2/arm_rtt3/arm_rtt4/arm_rtt5/arm_rtt6/arm_rtt7/wrist_rtt/middlefinger_rtt1/middlefinger_rtt2
+        weight: 1
+      - path: arm_rtt1/arm_rtt2/arm_rtt3/arm_rtt4/arm_rtt5/arm_rtt6/arm_rtt7/wrist_rtt/middlefinger_rtt1/middlefinger_rtt2/middlefinger_rtt3
+        weight: 1
+      - path: arm_rtt1/arm_rtt2/arm_rtt3/arm_rtt4/arm_rtt5/arm_rtt6/arm_rtt7/wrist_rtt/pinkyfinger_rtt1
+        weight: 1
+      - path: arm_rtt1/arm_rtt2/arm_rtt3/arm_rtt4/arm_rtt5/arm_rtt6/arm_rtt7/wrist_rtt/pinkyfinger_rtt1/pinkyfinger_rtt2
+        weight: 1
+      - path: arm_rtt1/arm_rtt2/arm_rtt3/arm_rtt4/arm_rtt5/arm_rtt6/arm_rtt7/wrist_rtt/pinkyfinger_rtt1/pinkyfinger_rtt2/pinkyfinger_rtt3
+        weight: 1
+      - path: arm_rtt1/arm_rtt2/arm_rtt3/arm_rtt4/arm_rtt5/arm_rtt6/arm_rtt7/wrist_rtt/pointfinger_rtt1
+        weight: 1
+      - path: arm_rtt1/arm_rtt2/arm_rtt3/arm_rtt4/arm_rtt5/arm_rtt6/arm_rtt7/wrist_rtt/pointfinger_rtt1/pointfinger_rtt2
+        weight: 1
+      - path: arm_rtt1/arm_rtt2/arm_rtt3/arm_rtt4/arm_rtt5/arm_rtt6/arm_rtt7/wrist_rtt/pointfinger_rtt1/pointfinger_rtt2/pointfinger_rtt3
+        weight: 1
+      - path: arm_rtt1/arm_rtt2/arm_rtt3/arm_rtt4/arm_rtt5/arm_rtt6/arm_rtt7/wrist_rtt/thumb_rtt1
+        weight: 1
+      - path: arm_rtt1/arm_rtt2/arm_rtt3/arm_rtt4/arm_rtt5/arm_rtt6/arm_rtt7/wrist_rtt/thumb_rtt1/thumb_rtt2
+        weight: 1
+      - path: arm_rtt1/arm_rtt2/arm_rtt3/arm_rtt4/arm_rtt5/arm_rtt6/arm_rtt7/wrist_rtt/thumb_rtt1/thumb_rtt2/thumb_rtt3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

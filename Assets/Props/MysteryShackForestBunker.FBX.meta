@@ -104,6 +104,9 @@ ModelImporter:
     100192: Straight step 024
     100194: Straight step 025
     100196: Straight step 026
+    100198: bunkerbuttonpush
+    100200: BunkerStairsWallsShelled
+    100202: BunkerWallsShelled
     400000: Bed
     400002: BunkerCrate001
     400004: BunkerLocker
@@ -203,6 +206,9 @@ ModelImporter:
     400192: Straight step 024
     400194: Straight step 025
     400196: Straight step 026
+    400198: bunkerbuttonpush
+    400200: BunkerStairsWallsShelled
+    400202: BunkerWallsShelled
     2300000: Bed
     2300002: BunkerCrate001
     2300004: BunkerLocker
@@ -301,6 +307,9 @@ ModelImporter:
     2300190: Straight step 024
     2300192: Straight step 025
     2300194: Straight step 026
+    2300196: bunkerbuttonpush
+    2300198: BunkerStairsWallsShelled
+    2300200: BunkerWallsShelled
     3300000: Bed
     3300002: BunkerCrate001
     3300004: BunkerLocker
@@ -399,6 +408,9 @@ ModelImporter:
     3300190: Straight step 024
     3300192: Straight step 025
     3300194: Straight step 026
+    3300196: bunkerbuttonpush
+    3300198: BunkerStairsWallsShelled
+    3300200: BunkerWallsShelled
     4300000: SecretEntranceWalls
     4300002: ForestGroundPlane
     4300004: SpiralStep001
@@ -497,6 +509,9 @@ ModelImporter:
     4300190: SpiralStep023
     4300192: SpiralStep024
     4300194: SpiralStep025
+    4300196: bunkerbuttonpush
+    4300198: BunkerWallsShelled
+    4300200: BunkerStairsWallsShelled
     9500000: //RootNode
   materials:
     importMaterials: 1
