@@ -1,0 +1,1277 @@
+fileFormatVersion: 2
+guid: 8af07373d33b3dd4eaceeb4996a14c90
+timeCreated: 1492791737
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Ankle_Lt
+    100002: Ankle_Rt
+    100004: ArmElbow_Lt
+    100006: ArmElbow_Rt
+    100008: ArmUpper_Lt
+    100010: ArmUpper_Rt
+    100012: ArmWrist_Lt
+    100014: ArmWrist_Rt
+    100016: Body
+    100018: Clavicle_Lt
+    100020: Clavicle_Rt
+    100022: //RootNode
+    100024: Eye_Lt
+    100026: Eye_Lt 1
+    100028: Eye_Rt
+    100030: Eye_Rt 1
+    100032: Eyebrow_Lt
+    100034: Eyebrow_Rt
+    100036: EyelidBot_Lt
+    100038: EyelidBot_Rt
+    100040: EyelidTop_Lt
+    100042: EyelidTop_Rt
+    100044: FingerIndexBase_Lt
+    100046: FingerIndexBase_Rt
+    100048: FingerIndexEnd_Lt
+    100050: FingerIndexEnd_Rt
+    100052: FingerMiddleBase_Lt
+    100054: FingerMiddleBase_Rt
+    100056: FingerMiddleEnd_Lt
+    100058: FingerMiddleEnd_Rt
+    100060: FingerPinkyBase_Lt
+    100062: FingerPinkyBase_Rt
+    100064: FingerPinkyEnd_Lt
+    100066: FingerPinkyEnd_Rt
+    100068: FingerThumbEnd_Lt
+    100070: FingerThumbEnd_Rt
+    100072: FingerTumbBase_Lt
+    100074: FingerTumbBase_Rt
+    100076: GEO
+    100078: Hair
+    100080: HairBetter
+    100082: Hat
+    100084: Head
+    100086: Head 1
+    100088: HipsSass
+    100090: Knee_Lt
+    100092: Knee_Rt
+    100094: Neck
+    100096: Root
+    100098: SpineLower
+    100100: SpineMid
+    100102: SpineUpper
+    100104: TeethTopA
+    100106: Thigh_Lt
+    100108: Thigh_Rt
+    100110: Toe_Lt
+    100112: Toe_Rt
+    100114: TongueA
+    100116: Vest
+    100118: Arm_Lt_IK
+    100120: Arm_Rt_IK
+    100122: CTRLs
+    100124: Elbow_Lt_CTRL
+    100126: Elbow_Rt_CTRL
+    100128: Eye_Lt_CTRL
+    100130: Eye_Rt_CTRL
+    100132: Eyes_CTRL
+    100134: Foot_Lt_CTRL
+    100136: Foot_Rt_CTRL
+    100138: Hand_Lt_CTRL
+    100140: Hand_Rt_CTRL
+    100142: Head_CTRL
+    100144: HipsSass_CTRL
+    100146: HipsTranslation_CTRL
+    100148: Knee_Lt_CTRL
+    100150: Knee_Rt_CTRL
+    100152: Leg_Lt_IK
+    100154: Leg_Rt_IK
+    100156: Neck_CTRL
+    100158: Root_CTRL
+    100160: SpineMid_CTRL
+    100162: SpineUpper_CTRL
+    100164: BlendShapeRef
+    100166: BlendShapes
+    100168: Eye_Lt1
+    100170: Eye_Lt1 1
+    100172: Eye_Lt1 2
+    100174: Eye_Lt1 3
+    100176: Eye_Lt1 4
+    100178: Eye_Lt1 5
+    100180: Eye_Lt1 6
+    100182: Eye_Rt1
+    100184: Eye_Rt1 1
+    100186: Eye_Rt1 2
+    100188: Eye_Rt1 3
+    100190: Eye_Rt1 4
+    100192: Eye_Rt1 5
+    100194: Eye_Rt1 6
+    100196: Eyebrow_Lt 1
+    100198: Eyebrow_Lt 2
+    100200: Eyebrow_Lt 3
+    100202: Eyebrow_Lt 4
+    100204: Eyebrow_Rt 1
+    100206: Eyebrow_Rt 2
+    100208: Eyebrow_Rt 3
+    100210: Eyebrow_Rt 4
+    100212: EyebrowNeutral_Lt_BS1
+    100214: EyebrowNeutral_Rt_BS1
+    100216: EyelidBot_Lt1
+    100218: EyelidBot_Lt1 1
+    100220: EyelidBot_Lt1 2
+    100222: EyelidBot_Lt1 3
+    100224: EyelidBot_Lt1 4
+    100226: EyelidBot_Lt1 5
+    100228: EyelidBot_Lt1 6
+    100230: EyelidBot_Rt1
+    100232: EyelidBot_Rt1 1
+    100234: EyelidBot_Rt1 2
+    100236: EyelidBot_Rt1 3
+    100238: EyelidBot_Rt1 4
+    100240: EyelidBot_Rt1 5
+    100242: EyelidBot_Rt1 6
+    100244: EyelidTop_Lt1
+    100246: EyelidTop_Lt1 1
+    100248: EyelidTop_Lt1 2
+    100250: EyelidTop_Lt1 3
+    100252: EyelidTop_Lt1 4
+    100254: EyelidTop_Lt1 5
+    100256: EyelidTop_Lt1 6
+    100258: EyelidTop_Rt1
+    100260: EyelidTop_Rt1 1
+    100262: EyelidTop_Rt1 2
+    100264: EyelidTop_Rt1 3
+    100266: EyelidTop_Rt1 4
+    100268: EyelidTop_Rt1 5
+    100270: EyelidTop_Rt1 6
+    100272: FrownBrowsFurrow
+    100274: FrownConcentration
+    100276: Hair 1
+    100278: Hair 2
+    100280: Hair 3
+    100282: Hair 4
+    100284: HairBetter 1
+    100286: HairBetterRef
+    100288: Hat 1
+    100290: Hat 2
+    100292: Hat 3
+    100294: Hat 4
+    100296: Hat 5
+    100298: Hat 6
+    100300: Hat 7
+    100302: Head1
+    100304: NeutralFrown
+    100306: NeutralSmile
+    100308: ShockOpen
+    100310: SmileSideClosedRight
+    100312: TeethTopA 1
+    100314: TeethTopA 2
+    100316: TeethTopA 3
+    100318: TeethTopA 4
+    100320: TeethTopA 5
+    100322: TeethTopA 6
+    100324: TeethTopA 7
+    100326: TongueA 1
+    100328: TongueA 2
+    100330: TongueA 3
+    100332: TongueA 4
+    100334: TongueA 5
+    100336: TongueA 6
+    100338: TongueLick_BS
+    400000: Ankle_Lt
+    400002: Ankle_Rt
+    400004: ArmElbow_Lt
+    400006: ArmElbow_Rt
+    400008: ArmUpper_Lt
+    400010: ArmUpper_Rt
+    400012: ArmWrist_Lt
+    400014: ArmWrist_Rt
+    400016: Body
+    400018: Clavicle_Lt
+    400020: Clavicle_Rt
+    400022: //RootNode
+    400024: Eye_Lt
+    400026: Eye_Lt 1
+    400028: Eye_Rt
+    400030: Eye_Rt 1
+    400032: Eyebrow_Lt
+    400034: Eyebrow_Rt
+    400036: EyelidBot_Lt
+    400038: EyelidBot_Rt
+    400040: EyelidTop_Lt
+    400042: EyelidTop_Rt
+    400044: FingerIndexBase_Lt
+    400046: FingerIndexBase_Rt
+    400048: FingerIndexEnd_Lt
+    400050: FingerIndexEnd_Rt
+    400052: FingerMiddleBase_Lt
+    400054: FingerMiddleBase_Rt
+    400056: FingerMiddleEnd_Lt
+    400058: FingerMiddleEnd_Rt
+    400060: FingerPinkyBase_Lt
+    400062: FingerPinkyBase_Rt
+    400064: FingerPinkyEnd_Lt
+    400066: FingerPinkyEnd_Rt
+    400068: FingerThumbEnd_Lt
+    400070: FingerThumbEnd_Rt
+    400072: FingerTumbBase_Lt
+    400074: FingerTumbBase_Rt
+    400076: GEO
+    400078: Hair
+    400080: HairBetter
+    400082: Hat
+    400084: Head
+    400086: Head 1
+    400088: HipsSass
+    400090: Knee_Lt
+    400092: Knee_Rt
+    400094: Neck
+    400096: Root
+    400098: SpineLower
+    400100: SpineMid
+    400102: SpineUpper
+    400104: TeethTopA
+    400106: Thigh_Lt
+    400108: Thigh_Rt
+    400110: Toe_Lt
+    400112: Toe_Rt
+    400114: TongueA
+    400116: Vest
+    400118: Arm_Lt_IK
+    400120: Arm_Rt_IK
+    400122: CTRLs
+    400124: Elbow_Lt_CTRL
+    400126: Elbow_Rt_CTRL
+    400128: Eye_Lt_CTRL
+    400130: Eye_Rt_CTRL
+    400132: Eyes_CTRL
+    400134: Foot_Lt_CTRL
+    400136: Foot_Rt_CTRL
+    400138: Hand_Lt_CTRL
+    400140: Hand_Rt_CTRL
+    400142: Head_CTRL
+    400144: HipsSass_CTRL
+    400146: HipsTranslation_CTRL
+    400148: Knee_Lt_CTRL
+    400150: Knee_Rt_CTRL
+    400152: Leg_Lt_IK
+    400154: Leg_Rt_IK
+    400156: Neck_CTRL
+    400158: Root_CTRL
+    400160: SpineMid_CTRL
+    400162: SpineUpper_CTRL
+    400164: BlendShapeRef
+    400166: BlendShapes
+    400168: Eye_Lt1
+    400170: Eye_Lt1 1
+    400172: Eye_Lt1 2
+    400174: Eye_Lt1 3
+    400176: Eye_Lt1 4
+    400178: Eye_Lt1 5
+    400180: Eye_Lt1 6
+    400182: Eye_Rt1
+    400184: Eye_Rt1 1
+    400186: Eye_Rt1 2
+    400188: Eye_Rt1 3
+    400190: Eye_Rt1 4
+    400192: Eye_Rt1 5
+    400194: Eye_Rt1 6
+    400196: Eyebrow_Lt 1
+    400198: Eyebrow_Lt 2
+    400200: Eyebrow_Lt 3
+    400202: Eyebrow_Lt 4
+    400204: Eyebrow_Rt 1
+    400206: Eyebrow_Rt 2
+    400208: Eyebrow_Rt 3
+    400210: Eyebrow_Rt 4
+    400212: EyebrowNeutral_Lt_BS1
+    400214: EyebrowNeutral_Rt_BS1
+    400216: EyelidBot_Lt1
+    400218: EyelidBot_Lt1 1
+    400220: EyelidBot_Lt1 2
+    400222: EyelidBot_Lt1 3
+    400224: EyelidBot_Lt1 4
+    400226: EyelidBot_Lt1 5
+    400228: EyelidBot_Lt1 6
+    400230: EyelidBot_Rt1
+    400232: EyelidBot_Rt1 1
+    400234: EyelidBot_Rt1 2
+    400236: EyelidBot_Rt1 3
+    400238: EyelidBot_Rt1 4
+    400240: EyelidBot_Rt1 5
+    400242: EyelidBot_Rt1 6
+    400244: EyelidTop_Lt1
+    400246: EyelidTop_Lt1 1
+    400248: EyelidTop_Lt1 2
+    400250: EyelidTop_Lt1 3
+    400252: EyelidTop_Lt1 4
+    400254: EyelidTop_Lt1 5
+    400256: EyelidTop_Lt1 6
+    400258: EyelidTop_Rt1
+    400260: EyelidTop_Rt1 1
+    400262: EyelidTop_Rt1 2
+    400264: EyelidTop_Rt1 3
+    400266: EyelidTop_Rt1 4
+    400268: EyelidTop_Rt1 5
+    400270: EyelidTop_Rt1 6
+    400272: FrownBrowsFurrow
+    400274: FrownConcentration
+    400276: Hair 1
+    400278: Hair 2
+    400280: Hair 3
+    400282: Hair 4
+    400284: HairBetter 1
+    400286: HairBetterRef
+    400288: Hat 1
+    400290: Hat 2
+    400292: Hat 3
+    400294: Hat 4
+    400296: Hat 5
+    400298: Hat 6
+    400300: Hat 7
+    400302: Head1
+    400304: NeutralFrown
+    400306: NeutralSmile
+    400308: ShockOpen
+    400310: SmileSideClosedRight
+    400312: TeethTopA 1
+    400314: TeethTopA 2
+    400316: TeethTopA 3
+    400318: TeethTopA 4
+    400320: TeethTopA 5
+    400322: TeethTopA 6
+    400324: TeethTopA 7
+    400326: TongueA 1
+    400328: TongueA 2
+    400330: TongueA 3
+    400332: TongueA 4
+    400334: TongueA 5
+    400336: TongueA 6
+    400338: TongueLick_BS
+    2300000: Body
+    2300002: Eye_Lt 1
+    2300004: Eye_Rt 1
+    2300006: Eyebrow_Lt
+    2300008: Eyebrow_Rt
+    2300010: EyelidBot_Lt
+    2300012: EyelidBot_Rt
+    2300014: EyelidTop_Lt
+    2300016: EyelidTop_Rt
+    2300018: Hair
+    2300020: HairBetter
+    2300022: Hat
+    2300024: Head 1
+    2300026: TeethTopA
+    2300028: TongueA
+    2300030: Vest
+    2300032: Eye_Lt1
+    2300034: Eye_Lt1 1
+    2300036: Eye_Lt1 2
+    2300038: Eye_Lt1 3
+    2300040: Eye_Lt1 4
+    2300042: Eye_Lt1 5
+    2300044: Eye_Lt1 6
+    2300046: Eye_Rt1
+    2300048: Eye_Rt1 1
+    2300050: Eye_Rt1 2
+    2300052: Eye_Rt1 3
+    2300054: Eye_Rt1 4
+    2300056: Eye_Rt1 5
+    2300058: Eye_Rt1 6
+    2300060: Eyebrow_Lt 1
+    2300062: Eyebrow_Lt 2
+    2300064: Eyebrow_Lt 3
+    2300066: Eyebrow_Rt 1
+    2300068: Eyebrow_Rt 2
+    2300070: Eyebrow_Rt 3
+    2300072: EyebrowNeutral_Lt_BS1
+    2300074: EyebrowNeutral_Rt_BS1
+    2300076: EyelidBot_Lt1
+    2300078: EyelidBot_Lt1 1
+    2300080: EyelidBot_Lt1 2
+    2300082: EyelidBot_Lt1 3
+    2300084: EyelidBot_Lt1 4
+    2300086: EyelidBot_Lt1 5
+    2300088: EyelidBot_Lt1 6
+    2300090: EyelidBot_Rt1
+    2300092: EyelidBot_Rt1 1
+    2300094: EyelidBot_Rt1 2
+    2300096: EyelidBot_Rt1 3
+    2300098: EyelidBot_Rt1 4
+    2300100: EyelidBot_Rt1 5
+    2300102: EyelidBot_Rt1 6
+    2300104: EyelidTop_Lt1
+    2300106: EyelidTop_Lt1 1
+    2300108: EyelidTop_Lt1 2
+    2300110: EyelidTop_Lt1 3
+    2300112: EyelidTop_Lt1 4
+    2300114: EyelidTop_Lt1 5
+    2300116: EyelidTop_Lt1 6
+    2300118: EyelidTop_Rt1
+    2300120: EyelidTop_Rt1 1
+    2300122: EyelidTop_Rt1 2
+    2300124: EyelidTop_Rt1 3
+    2300126: EyelidTop_Rt1 4
+    2300128: EyelidTop_Rt1 5
+    2300130: EyelidTop_Rt1 6
+    2300132: Hair 1
+    2300134: Hair 2
+    2300136: Hair 3
+    2300138: HairBetterRef
+    2300140: Hat 1
+    2300142: Hat 2
+    2300144: Hat 3
+    2300146: Hat 4
+    2300148: Hat 5
+    2300150: Hat 6
+    2300152: Hat 7
+    2300154: Head1
+    2300156: TeethTopA 1
+    2300158: TeethTopA 2
+    2300160: TeethTopA 3
+    2300162: TeethTopA 4
+    2300164: TeethTopA 5
+    2300166: TeethTopA 6
+    2300168: TeethTopA 7
+    2300170: TongueA 1
+    2300172: TongueA 2
+    2300174: TongueA 3
+    2300176: TongueA 4
+    2300178: TongueA 5
+    2300180: TongueA 6
+    2300182: TongueLick_BS
+    3300000: Body
+    3300002: Eye_Lt 1
+    3300004: Eye_Rt 1
+    3300006: Eyebrow_Lt
+    3300008: Eyebrow_Rt
+    3300010: EyelidBot_Lt
+    3300012: EyelidBot_Rt
+    3300014: EyelidTop_Lt
+    3300016: EyelidTop_Rt
+    3300018: Hair
+    3300020: HairBetter
+    3300022: Hat
+    3300024: Head 1
+    3300026: TeethTopA
+    3300028: TongueA
+    3300030: Vest
+    3300032: Eye_Lt1
+    3300034: Eye_Lt1 1
+    3300036: Eye_Lt1 2
+    3300038: Eye_Lt1 3
+    3300040: Eye_Lt1 4
+    3300042: Eye_Lt1 5
+    3300044: Eye_Lt1 6
+    3300046: Eye_Rt1
+    3300048: Eye_Rt1 1
+    3300050: Eye_Rt1 2
+    3300052: Eye_Rt1 3
+    3300054: Eye_Rt1 4
+    3300056: Eye_Rt1 5
+    3300058: Eye_Rt1 6
+    3300060: Eyebrow_Lt 1
+    3300062: Eyebrow_Lt 2
+    3300064: Eyebrow_Lt 3
+    3300066: Eyebrow_Rt 1
+    3300068: Eyebrow_Rt 2
+    3300070: Eyebrow_Rt 3
+    3300072: EyebrowNeutral_Lt_BS1
+    3300074: EyebrowNeutral_Rt_BS1
+    3300076: EyelidBot_Lt1
+    3300078: EyelidBot_Lt1 1
+    3300080: EyelidBot_Lt1 2
+    3300082: EyelidBot_Lt1 3
+    3300084: EyelidBot_Lt1 4
+    3300086: EyelidBot_Lt1 5
+    3300088: EyelidBot_Lt1 6
+    3300090: EyelidBot_Rt1
+    3300092: EyelidBot_Rt1 1
+    3300094: EyelidBot_Rt1 2
+    3300096: EyelidBot_Rt1 3
+    3300098: EyelidBot_Rt1 4
+    3300100: EyelidBot_Rt1 5
+    3300102: EyelidBot_Rt1 6
+    3300104: EyelidTop_Lt1
+    3300106: EyelidTop_Lt1 1
+    3300108: EyelidTop_Lt1 2
+    3300110: EyelidTop_Lt1 3
+    3300112: EyelidTop_Lt1 4
+    3300114: EyelidTop_Lt1 5
+    3300116: EyelidTop_Lt1 6
+    3300118: EyelidTop_Rt1
+    3300120: EyelidTop_Rt1 1
+    3300122: EyelidTop_Rt1 2
+    3300124: EyelidTop_Rt1 3
+    3300126: EyelidTop_Rt1 4
+    3300128: EyelidTop_Rt1 5
+    3300130: EyelidTop_Rt1 6
+    3300132: Hair 1
+    3300134: Hair 2
+    3300136: Hair 3
+    3300138: HairBetterRef
+    3300140: Hat 1
+    3300142: Hat 2
+    3300144: Hat 3
+    3300146: Hat 4
+    3300148: Hat 5
+    3300150: Hat 6
+    3300152: Hat 7
+    3300154: Head1
+    3300156: TeethTopA 1
+    3300158: TeethTopA 2
+    3300160: TeethTopA 3
+    3300162: TeethTopA 4
+    3300164: TeethTopA 5
+    3300166: TeethTopA 6
+    3300168: TeethTopA 7
+    3300170: TongueA 1
+    3300172: TongueA 2
+    3300174: TongueA 3
+    3300176: TongueA 4
+    3300178: TongueA 5
+    3300180: TongueA 6
+    3300182: TongueLick_BS
+    4300000: Body
+    4300002: Vest
+    4300004: Head
+    4300006: Hat
+    4300008: Hair
+    4300010: HairBetter
+    4300012: Eyebrow_Rt
+    4300014: Eyebrow_Lt
+    4300016: TongueA
+    4300018: TeethTopA
+    4300020: EyelidTop_Rt
+    4300022: EyelidBot_Rt
+    4300024: EyelidBot_Lt
+    4300026: EyelidTop_Lt
+    4300028: Eye_Lt
+    4300030: Eye_Rt
+    4300032: Eye_Rt1
+    4300034: Eye_Lt1
+    4300036: EyelidTop_Lt1
+    4300038: EyelidBot_Lt1
+    4300040: EyelidBot_Rt1
+    4300042: EyelidTop_Rt1
+    4300044: Head1
+    4300046: Hat
+    4300048: Hair
+    4300050: Eyebrow_Rt
+    4300052: Eyebrow_Lt
+    4300054: TongueA
+    4300056: TeethTopA
+    4300058: Eye_Rt1
+    4300060: Eye_Lt1
+    4300062: EyelidTop_Lt1
+    4300064: EyelidBot_Lt1
+    4300066: EyelidBot_Rt1
+    4300068: EyelidTop_Rt1
+    4300070: TeethTopA
+    4300072: TongueA
+    4300074: Eyebrow_Lt
+    4300076: Eyebrow_Rt
+    4300078: Hat
+    4300080: Eye_Rt1
+    4300082: Eye_Lt1
+    4300084: EyelidTop_Lt1
+    4300086: EyelidBot_Lt1
+    4300088: EyelidBot_Rt1
+    4300090: EyelidTop_Rt1
+    4300092: TeethTopA
+    4300094: TongueA
+    4300096: Eyebrow_Lt
+    4300098: Eyebrow_Rt
+    4300100: Hat
+    4300102: Eye_Rt1
+    4300104: Eye_Lt1
+    4300106: EyelidTop_Lt1
+    4300108: EyelidBot_Lt1
+    4300110: EyelidBot_Rt1
+    4300112: EyelidTop_Rt1
+    4300114: TeethTopA
+    4300116: TongueA
+    4300118: Hat
+    4300120: Eye_Rt1
+    4300122: Eye_Lt1
+    4300124: EyelidTop_Lt1
+    4300126: EyelidBot_Lt1
+    4300128: EyelidBot_Rt1
+    4300130: EyelidTop_Rt1
+    4300132: TeethTopA
+    4300134: TongueA
+    4300136: Hair
+    4300138: Hat
+    4300140: Eye_Rt1
+    4300142: Eye_Lt1
+    4300144: EyelidTop_Lt1
+    4300146: EyelidBot_Lt1
+    4300148: EyelidBot_Rt1
+    4300150: EyelidTop_Rt1
+    4300152: TeethTopA
+    4300154: Hair
+    4300156: Hat
+    4300158: EyebrowNeutral_Rt_BS1
+    4300160: EyebrowNeutral_Lt_BS1
+    4300162: TongueLick_BS
+    4300164: HairBetterRef
+    4300166: Eye_Rt1
+    4300168: Eye_Lt1
+    4300170: EyelidTop_Lt1
+    4300172: EyelidBot_Lt1
+    4300174: EyelidBot_Rt1
+    4300176: EyelidTop_Rt1
+    4300178: TeethTopA
+    4300180: TongueA
+    4300182: Eyebrow_Lt
+    4300184: Eyebrow_Rt
+    4300186: Hair
+    4300188: Hat
+    7400000: Run
+    7400002: Idle
+    7400004: Attack
+    9500000: //RootNode
+    13700000: Body
+    13700002: Vest
+    13700004: Eyebrow_Lt 4
+    13700006: Eyebrow_Rt 4
+    13700008: Hair 4
+    13700010: HairBetter 1
+    13700012: Head 1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Run
+      takeName: Take 001
+      firstFrame: 42
+      lastFrame: 58
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CTRLs
+        weight: 1
+      - path: CTRLs/Eyes_CTRL
+        weight: 1
+      - path: CTRLs/Eyes_CTRL/Eye_Lt_CTRL
+        weight: 1
+      - path: CTRLs/Eyes_CTRL/Eye_Rt_CTRL
+        weight: 1
+      - path: CTRLs/Root_CTRL
+        weight: 1
+      - path: CTRLs/Root_CTRL/Elbow_Lt_CTRL
+        weight: 1
+      - path: CTRLs/Root_CTRL/Elbow_Rt_CTRL
+        weight: 1
+      - path: CTRLs/Root_CTRL/Foot_Lt_CTRL
+        weight: 1
+      - path: CTRLs/Root_CTRL/Foot_Lt_CTRL/Leg_Lt_IK
+        weight: 1
+      - path: CTRLs/Root_CTRL/Foot_Rt_CTRL
+        weight: 1
+      - path: CTRLs/Root_CTRL/Foot_Rt_CTRL/Leg_Rt_IK
+        weight: 1
+      - path: CTRLs/Root_CTRL/Hand_Lt_CTRL
+        weight: 1
+      - path: CTRLs/Root_CTRL/Hand_Lt_CTRL/Arm_Lt_IK
+        weight: 1
+      - path: CTRLs/Root_CTRL/Hand_Rt_CTRL
+        weight: 1
+      - path: CTRLs/Root_CTRL/Hand_Rt_CTRL/Arm_Rt_IK
+        weight: 1
+      - path: CTRLs/Root_CTRL/HipsTranslation_CTRL
+        weight: 1
+      - path: CTRLs/Root_CTRL/HipsTranslation_CTRL/HipsSass_CTRL
+        weight: 1
+      - path: CTRLs/Root_CTRL/HipsTranslation_CTRL/SpineMid_CTRL
+        weight: 1
+      - path: CTRLs/Root_CTRL/HipsTranslation_CTRL/SpineMid_CTRL/SpineUpper_CTRL
+        weight: 1
+      - path: CTRLs/Root_CTRL/HipsTranslation_CTRL/SpineMid_CTRL/SpineUpper_CTRL/Head_CTRL
+        weight: 1
+      - path: CTRLs/Root_CTRL/HipsTranslation_CTRL/SpineMid_CTRL/SpineUpper_CTRL/Neck_CTRL
+        weight: 1
+      - path: CTRLs/Root_CTRL/Knee_Lt_CTRL
+        weight: 1
+      - path: CTRLs/Root_CTRL/Knee_Rt_CTRL
+        weight: 1
+      - path: GEO
+        weight: 1
+      - path: GEO/Body
+        weight: 1
+      - path: GEO/Vest
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/HipsSass
+        weight: 1
+      - path: Root/SpineLower
+        weight: 1
+      - path: Root/SpineLower/SpineMid
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Lt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Lt/ArmUpper_Lt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Lt/ArmUpper_Lt/ArmElbow_Lt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Lt/ArmUpper_Lt/ArmElbow_Lt/ArmWrist_Lt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Lt/ArmUpper_Lt/ArmElbow_Lt/ArmWrist_Lt/FingerIndexBase_Lt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Lt/ArmUpper_Lt/ArmElbow_Lt/ArmWrist_Lt/FingerIndexBase_Lt/FingerIndexEnd_Lt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Lt/ArmUpper_Lt/ArmElbow_Lt/ArmWrist_Lt/FingerMiddleBase_Lt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Lt/ArmUpper_Lt/ArmElbow_Lt/ArmWrist_Lt/FingerMiddleBase_Lt/FingerMiddleEnd_Lt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Lt/ArmUpper_Lt/ArmElbow_Lt/ArmWrist_Lt/FingerPinkyBase_Lt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Lt/ArmUpper_Lt/ArmElbow_Lt/ArmWrist_Lt/FingerPinkyBase_Lt/FingerPinkyEnd_Lt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Lt/ArmUpper_Lt/ArmElbow_Lt/ArmWrist_Lt/FingerTumbBase_Lt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Lt/ArmUpper_Lt/ArmElbow_Lt/ArmWrist_Lt/FingerTumbBase_Lt/FingerThumbEnd_Lt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Rt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Rt/ArmUpper_Rt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Rt/ArmUpper_Rt/ArmElbow_Rt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Rt/ArmUpper_Rt/ArmElbow_Rt/ArmWrist_Rt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Rt/ArmUpper_Rt/ArmElbow_Rt/ArmWrist_Rt/FingerIndexBase_Rt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Rt/ArmUpper_Rt/ArmElbow_Rt/ArmWrist_Rt/FingerIndexBase_Rt/FingerIndexEnd_Rt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Rt/ArmUpper_Rt/ArmElbow_Rt/ArmWrist_Rt/FingerMiddleBase_Rt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Rt/ArmUpper_Rt/ArmElbow_Rt/ArmWrist_Rt/FingerMiddleBase_Rt/FingerMiddleEnd_Rt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Rt/ArmUpper_Rt/ArmElbow_Rt/ArmWrist_Rt/FingerPinkyBase_Rt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Rt/ArmUpper_Rt/ArmElbow_Rt/ArmWrist_Rt/FingerPinkyBase_Rt/FingerPinkyEnd_Rt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Rt/ArmUpper_Rt/ArmElbow_Rt/ArmWrist_Rt/FingerTumbBase_Rt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Rt/ArmUpper_Rt/ArmElbow_Rt/ArmWrist_Rt/FingerTumbBase_Rt/FingerThumbEnd_Rt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck/Head
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck/Head/Eye_Lt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck/Head/Eye_Lt/Eye_Lt 1
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck/Head/Eye_Rt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck/Head/Eye_Rt/Eye_Rt 1
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck/Head/EyelidBot_Lt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck/Head/EyelidBot_Rt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck/Head/EyelidTop_Lt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck/Head/EyelidTop_Rt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck/Head/Head 1
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck/Head/Head 1/Eyebrow_Lt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck/Head/Head 1/Eyebrow_Rt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck/Head/Head 1/Hair
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck/Head/Head 1/HairBetter
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck/Head/Head 1/Hat
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck/Head/Head 1/TeethTopA
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck/Head/Head 1/TongueA
+        weight: 1
+      - path: Root/Thigh_Lt
+        weight: 1
+      - path: Root/Thigh_Lt/Knee_Lt
+        weight: 1
+      - path: Root/Thigh_Lt/Knee_Lt/Ankle_Lt
+        weight: 1
+      - path: Root/Thigh_Lt/Knee_Lt/Ankle_Lt/Toe_Lt
+        weight: 1
+      - path: Root/Thigh_Rt
+        weight: 1
+      - path: Root/Thigh_Rt/Knee_Rt
+        weight: 1
+      - path: Root/Thigh_Rt/Knee_Rt/Ankle_Rt
+        weight: 1
+      - path: Root/Thigh_Rt/Knee_Rt/Ankle_Rt/Toe_Rt
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CTRLs
+        weight: 1
+      - path: CTRLs/Eyes_CTRL
+        weight: 1
+      - path: CTRLs/Eyes_CTRL/Eye_Lt_CTRL
+        weight: 1
+      - path: CTRLs/Eyes_CTRL/Eye_Rt_CTRL
+        weight: 1
+      - path: CTRLs/Root_CTRL
+        weight: 1
+      - path: CTRLs/Root_CTRL/Elbow_Lt_CTRL
+        weight: 1
+      - path: CTRLs/Root_CTRL/Elbow_Rt_CTRL
+        weight: 1
+      - path: CTRLs/Root_CTRL/Foot_Lt_CTRL
+        weight: 1
+      - path: CTRLs/Root_CTRL/Foot_Lt_CTRL/Leg_Lt_IK
+        weight: 1
+      - path: CTRLs/Root_CTRL/Foot_Rt_CTRL
+        weight: 1
+      - path: CTRLs/Root_CTRL/Foot_Rt_CTRL/Leg_Rt_IK
+        weight: 1
+      - path: CTRLs/Root_CTRL/Hand_Lt_CTRL
+        weight: 1
+      - path: CTRLs/Root_CTRL/Hand_Lt_CTRL/Arm_Lt_IK
+        weight: 1
+      - path: CTRLs/Root_CTRL/Hand_Rt_CTRL
+        weight: 1
+      - path: CTRLs/Root_CTRL/Hand_Rt_CTRL/Arm_Rt_IK
+        weight: 1
+      - path: CTRLs/Root_CTRL/HipsTranslation_CTRL
+        weight: 1
+      - path: CTRLs/Root_CTRL/HipsTranslation_CTRL/HipsSass_CTRL
+        weight: 1
+      - path: CTRLs/Root_CTRL/HipsTranslation_CTRL/SpineMid_CTRL
+        weight: 1
+      - path: CTRLs/Root_CTRL/HipsTranslation_CTRL/SpineMid_CTRL/SpineUpper_CTRL
+        weight: 1
+      - path: CTRLs/Root_CTRL/HipsTranslation_CTRL/SpineMid_CTRL/SpineUpper_CTRL/Head_CTRL
+        weight: 1
+      - path: CTRLs/Root_CTRL/HipsTranslation_CTRL/SpineMid_CTRL/SpineUpper_CTRL/Neck_CTRL
+        weight: 1
+      - path: CTRLs/Root_CTRL/Knee_Lt_CTRL
+        weight: 1
+      - path: CTRLs/Root_CTRL/Knee_Rt_CTRL
+        weight: 1
+      - path: GEO
+        weight: 1
+      - path: GEO/Body
+        weight: 1
+      - path: GEO/Vest
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/HipsSass
+        weight: 1
+      - path: Root/SpineLower
+        weight: 1
+      - path: Root/SpineLower/SpineMid
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Lt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Lt/ArmUpper_Lt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Lt/ArmUpper_Lt/ArmElbow_Lt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Lt/ArmUpper_Lt/ArmElbow_Lt/ArmWrist_Lt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Lt/ArmUpper_Lt/ArmElbow_Lt/ArmWrist_Lt/FingerIndexBase_Lt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Lt/ArmUpper_Lt/ArmElbow_Lt/ArmWrist_Lt/FingerIndexBase_Lt/FingerIndexEnd_Lt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Lt/ArmUpper_Lt/ArmElbow_Lt/ArmWrist_Lt/FingerMiddleBase_Lt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Lt/ArmUpper_Lt/ArmElbow_Lt/ArmWrist_Lt/FingerMiddleBase_Lt/FingerMiddleEnd_Lt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Lt/ArmUpper_Lt/ArmElbow_Lt/ArmWrist_Lt/FingerPinkyBase_Lt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Lt/ArmUpper_Lt/ArmElbow_Lt/ArmWrist_Lt/FingerPinkyBase_Lt/FingerPinkyEnd_Lt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Lt/ArmUpper_Lt/ArmElbow_Lt/ArmWrist_Lt/FingerTumbBase_Lt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Lt/ArmUpper_Lt/ArmElbow_Lt/ArmWrist_Lt/FingerTumbBase_Lt/FingerThumbEnd_Lt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Rt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Rt/ArmUpper_Rt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Rt/ArmUpper_Rt/ArmElbow_Rt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Rt/ArmUpper_Rt/ArmElbow_Rt/ArmWrist_Rt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Rt/ArmUpper_Rt/ArmElbow_Rt/ArmWrist_Rt/FingerIndexBase_Rt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Rt/ArmUpper_Rt/ArmElbow_Rt/ArmWrist_Rt/FingerIndexBase_Rt/FingerIndexEnd_Rt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Rt/ArmUpper_Rt/ArmElbow_Rt/ArmWrist_Rt/FingerMiddleBase_Rt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Rt/ArmUpper_Rt/ArmElbow_Rt/ArmWrist_Rt/FingerMiddleBase_Rt/FingerMiddleEnd_Rt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Rt/ArmUpper_Rt/ArmElbow_Rt/ArmWrist_Rt/FingerPinkyBase_Rt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Rt/ArmUpper_Rt/ArmElbow_Rt/ArmWrist_Rt/FingerPinkyBase_Rt/FingerPinkyEnd_Rt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Rt/ArmUpper_Rt/ArmElbow_Rt/ArmWrist_Rt/FingerTumbBase_Rt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Rt/ArmUpper_Rt/ArmElbow_Rt/ArmWrist_Rt/FingerTumbBase_Rt/FingerThumbEnd_Rt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck/Head
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck/Head/Eye_Lt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck/Head/Eye_Lt/Eye_Lt 1
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck/Head/Eye_Rt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck/Head/Eye_Rt/Eye_Rt 1
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck/Head/EyelidBot_Lt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck/Head/EyelidBot_Rt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck/Head/EyelidTop_Lt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck/Head/EyelidTop_Rt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck/Head/Head 1
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck/Head/Head 1/Eyebrow_Lt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck/Head/Head 1/Eyebrow_Rt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck/Head/Head 1/Hair
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck/Head/Head 1/HairBetter
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck/Head/Head 1/Hat
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck/Head/Head 1/TeethTopA
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck/Head/Head 1/TongueA
+        weight: 1
+      - path: Root/Thigh_Lt
+        weight: 1
+      - path: Root/Thigh_Lt/Knee_Lt
+        weight: 1
+      - path: Root/Thigh_Lt/Knee_Lt/Ankle_Lt
+        weight: 1
+      - path: Root/Thigh_Lt/Knee_Lt/Ankle_Lt/Toe_Lt
+        weight: 1
+      - path: Root/Thigh_Rt
+        weight: 1
+      - path: Root/Thigh_Rt/Knee_Rt
+        weight: 1
+      - path: Root/Thigh_Rt/Knee_Rt/Ankle_Rt
+        weight: 1
+      - path: Root/Thigh_Rt/Knee_Rt/Ankle_Rt/Toe_Rt
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Attack
+      takeName: Take 001
+      firstFrame: 66
+      lastFrame: 82
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CTRLs
+        weight: 1
+      - path: CTRLs/Eyes_CTRL
+        weight: 1
+      - path: CTRLs/Eyes_CTRL/Eye_Lt_CTRL
+        weight: 1
+      - path: CTRLs/Eyes_CTRL/Eye_Rt_CTRL
+        weight: 1
+      - path: CTRLs/Root_CTRL
+        weight: 1
+      - path: CTRLs/Root_CTRL/Elbow_Lt_CTRL
+        weight: 1
+      - path: CTRLs/Root_CTRL/Elbow_Rt_CTRL
+        weight: 1
+      - path: CTRLs/Root_CTRL/Foot_Lt_CTRL
+        weight: 1
+      - path: CTRLs/Root_CTRL/Foot_Lt_CTRL/Leg_Lt_IK
+        weight: 1
+      - path: CTRLs/Root_CTRL/Foot_Rt_CTRL
+        weight: 1
+      - path: CTRLs/Root_CTRL/Foot_Rt_CTRL/Leg_Rt_IK
+        weight: 1
+      - path: CTRLs/Root_CTRL/Hand_Lt_CTRL
+        weight: 1
+      - path: CTRLs/Root_CTRL/Hand_Lt_CTRL/Arm_Lt_IK
+        weight: 1
+      - path: CTRLs/Root_CTRL/Hand_Rt_CTRL
+        weight: 1
+      - path: CTRLs/Root_CTRL/Hand_Rt_CTRL/Arm_Rt_IK
+        weight: 1
+      - path: CTRLs/Root_CTRL/HipsTranslation_CTRL
+        weight: 1
+      - path: CTRLs/Root_CTRL/HipsTranslation_CTRL/HipsSass_CTRL
+        weight: 1
+      - path: CTRLs/Root_CTRL/HipsTranslation_CTRL/SpineMid_CTRL
+        weight: 1
+      - path: CTRLs/Root_CTRL/HipsTranslation_CTRL/SpineMid_CTRL/SpineUpper_CTRL
+        weight: 1
+      - path: CTRLs/Root_CTRL/HipsTranslation_CTRL/SpineMid_CTRL/SpineUpper_CTRL/Head_CTRL
+        weight: 1
+      - path: CTRLs/Root_CTRL/HipsTranslation_CTRL/SpineMid_CTRL/SpineUpper_CTRL/Neck_CTRL
+        weight: 1
+      - path: CTRLs/Root_CTRL/Knee_Lt_CTRL
+        weight: 1
+      - path: CTRLs/Root_CTRL/Knee_Rt_CTRL
+        weight: 1
+      - path: GEO
+        weight: 1
+      - path: GEO/Body
+        weight: 1
+      - path: GEO/Vest
+        weight: 1
+      - path: Root
+        weight: 1
+      - path: Root/HipsSass
+        weight: 1
+      - path: Root/SpineLower
+        weight: 1
+      - path: Root/SpineLower/SpineMid
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Lt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Lt/ArmUpper_Lt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Lt/ArmUpper_Lt/ArmElbow_Lt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Lt/ArmUpper_Lt/ArmElbow_Lt/ArmWrist_Lt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Lt/ArmUpper_Lt/ArmElbow_Lt/ArmWrist_Lt/FingerIndexBase_Lt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Lt/ArmUpper_Lt/ArmElbow_Lt/ArmWrist_Lt/FingerIndexBase_Lt/FingerIndexEnd_Lt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Lt/ArmUpper_Lt/ArmElbow_Lt/ArmWrist_Lt/FingerMiddleBase_Lt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Lt/ArmUpper_Lt/ArmElbow_Lt/ArmWrist_Lt/FingerMiddleBase_Lt/FingerMiddleEnd_Lt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Lt/ArmUpper_Lt/ArmElbow_Lt/ArmWrist_Lt/FingerPinkyBase_Lt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Lt/ArmUpper_Lt/ArmElbow_Lt/ArmWrist_Lt/FingerPinkyBase_Lt/FingerPinkyEnd_Lt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Lt/ArmUpper_Lt/ArmElbow_Lt/ArmWrist_Lt/FingerTumbBase_Lt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Lt/ArmUpper_Lt/ArmElbow_Lt/ArmWrist_Lt/FingerTumbBase_Lt/FingerThumbEnd_Lt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Rt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Rt/ArmUpper_Rt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Rt/ArmUpper_Rt/ArmElbow_Rt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Rt/ArmUpper_Rt/ArmElbow_Rt/ArmWrist_Rt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Rt/ArmUpper_Rt/ArmElbow_Rt/ArmWrist_Rt/FingerIndexBase_Rt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Rt/ArmUpper_Rt/ArmElbow_Rt/ArmWrist_Rt/FingerIndexBase_Rt/FingerIndexEnd_Rt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Rt/ArmUpper_Rt/ArmElbow_Rt/ArmWrist_Rt/FingerMiddleBase_Rt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Rt/ArmUpper_Rt/ArmElbow_Rt/ArmWrist_Rt/FingerMiddleBase_Rt/FingerMiddleEnd_Rt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Rt/ArmUpper_Rt/ArmElbow_Rt/ArmWrist_Rt/FingerPinkyBase_Rt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Rt/ArmUpper_Rt/ArmElbow_Rt/ArmWrist_Rt/FingerPinkyBase_Rt/FingerPinkyEnd_Rt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Rt/ArmUpper_Rt/ArmElbow_Rt/ArmWrist_Rt/FingerTumbBase_Rt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Clavicle_Rt/ArmUpper_Rt/ArmElbow_Rt/ArmWrist_Rt/FingerTumbBase_Rt/FingerThumbEnd_Rt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck/Head
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck/Head/Eye_Lt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck/Head/Eye_Lt/Eye_Lt 1
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck/Head/Eye_Rt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck/Head/Eye_Rt/Eye_Rt 1
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck/Head/EyelidBot_Lt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck/Head/EyelidBot_Rt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck/Head/EyelidTop_Lt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck/Head/EyelidTop_Rt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck/Head/Head 1
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck/Head/Head 1/Eyebrow_Lt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck/Head/Head 1/Eyebrow_Rt
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck/Head/Head 1/Hair
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck/Head/Head 1/HairBetter
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck/Head/Head 1/Hat
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck/Head/Head 1/TeethTopA
+        weight: 1
+      - path: Root/SpineLower/SpineMid/SpineUpper/Neck/Head/Head 1/TongueA
+        weight: 1
+      - path: Root/Thigh_Lt
+        weight: 1
+      - path: Root/Thigh_Lt/Knee_Lt
+        weight: 1
+      - path: Root/Thigh_Lt/Knee_Lt/Ankle_Lt
+        weight: 1
+      - path: Root/Thigh_Lt/Knee_Lt/Ankle_Lt/Toe_Lt
+        weight: 1
+      - path: Root/Thigh_Rt
+        weight: 1
+      - path: Root/Thigh_Rt/Knee_Rt
+        weight: 1
+      - path: Root/Thigh_Rt/Knee_Rt/Ankle_Rt
+        weight: 1
+      - path: Root/Thigh_Rt/Knee_Rt/Ankle_Rt/Toe_Rt
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

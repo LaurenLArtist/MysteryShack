@@ -107,6 +107,19 @@ ModelImporter:
     100198: bunkerbuttonpush
     100200: BunkerStairsWallsShelled
     100202: BunkerWallsShelled
+    100204: SecretWallsGroundShelled
+    100206: SpiralStep026
+    100208: SpiralStep027
+    100210: SpiralStep028
+    100212: SpiralStep029
+    100214: SpiralStep030
+    100216: SpiralStep031
+    100218: SpiralStep032
+    100220: SpiralStep033
+    100222: SpiralStep034
+    100224: SpiralStep035
+    100226: SpiralStep036
+    100228: SpiralStep037
     400000: Bed
     400002: BunkerCrate001
     400004: BunkerLocker
@@ -209,6 +222,19 @@ ModelImporter:
     400198: bunkerbuttonpush
     400200: BunkerStairsWallsShelled
     400202: BunkerWallsShelled
+    400204: SecretWallsGroundShelled
+    400206: SpiralStep026
+    400208: SpiralStep027
+    400210: SpiralStep028
+    400212: SpiralStep029
+    400214: SpiralStep030
+    400216: SpiralStep031
+    400218: SpiralStep032
+    400220: SpiralStep033
+    400222: SpiralStep034
+    400224: SpiralStep035
+    400226: SpiralStep036
+    400228: SpiralStep037
     2300000: Bed
     2300002: BunkerCrate001
     2300004: BunkerLocker
@@ -310,6 +336,19 @@ ModelImporter:
     2300196: bunkerbuttonpush
     2300198: BunkerStairsWallsShelled
     2300200: BunkerWallsShelled
+    2300202: SecretWallsGroundShelled
+    2300204: SpiralStep026
+    2300206: SpiralStep027
+    2300208: SpiralStep028
+    2300210: SpiralStep029
+    2300212: SpiralStep030
+    2300214: SpiralStep031
+    2300216: SpiralStep032
+    2300218: SpiralStep033
+    2300220: SpiralStep034
+    2300222: SpiralStep035
+    2300224: SpiralStep036
+    2300226: SpiralStep037
     3300000: Bed
     3300002: BunkerCrate001
     3300004: BunkerLocker
@@ -411,6 +450,19 @@ ModelImporter:
     3300196: bunkerbuttonpush
     3300198: BunkerStairsWallsShelled
     3300200: BunkerWallsShelled
+    3300202: SecretWallsGroundShelled
+    3300204: SpiralStep026
+    3300206: SpiralStep027
+    3300208: SpiralStep028
+    3300210: SpiralStep029
+    3300212: SpiralStep030
+    3300214: SpiralStep031
+    3300216: SpiralStep032
+    3300218: SpiralStep033
+    3300220: SpiralStep034
+    3300222: SpiralStep035
+    3300224: SpiralStep036
+    3300226: SpiralStep037
     4300000: SecretEntranceWalls
     4300002: ForestGroundPlane
     4300004: SpiralStep001
@@ -512,6 +564,19 @@ ModelImporter:
     4300196: bunkerbuttonpush
     4300198: BunkerWallsShelled
     4300200: BunkerStairsWallsShelled
+    4300202: SpiralStep026
+    4300204: SpiralStep027
+    4300206: SpiralStep028
+    4300208: SpiralStep029
+    4300210: SpiralStep030
+    4300212: SpiralStep031
+    4300214: SpiralStep032
+    4300216: SpiralStep033
+    4300218: SpiralStep034
+    4300220: SpiralStep035
+    4300222: SpiralStep036
+    4300224: SpiralStep037
+    4300226: SecretWallsGroundShelled
     9500000: //RootNode
   materials:
     importMaterials: 1
